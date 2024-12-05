@@ -13,34 +13,3 @@ i'm gay
 [![](https://visitcount.itsvg.in/api?id=sarc1&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h1>Teknospace</h1>
-<hr><p>TeknoSpaces is a comprehensive online booking platform tailored exclusively for CIT-U students and faculty. Designed with the needs of our academic community in mind, TeknoSpaces streamlines the process of reserving classrooms, conference rooms, study areas, and other essential facilities on campus.</p><h2>General Information</h2>
-<hr><ul>
-<li>With TeknoSpaces, the hassle of coordinating schedules and securing the right space is a thing of the past. Our intuitive platform allows you to effortlessly browse available facilities, choose your preferred time slots, and confirm your reservations—all in just a few clicks.</li>
-</ul><ul>
-<li>Our system is built to ensure that all reservations are managed efficiently, presenting a clear, organized schedule that adapts to your academic and professional demands. Whether you’re planning a study session, a group meeting, or a special event, TeknoSpaces offers a reliable solution that allows you to focus on what truly matters—your learning, teaching, and collaboration efforts.</li>
-</ul><h2>Technologies Used</h2>
-<hr><ul>
-<li>HTML</li>
-</ul><ul>
-<li>CSS</li>
-</ul><ul>
-<li>Django</li>
-</ul><ul>
-<li>Tailwind</li>
-</ul><ul>
-<li>Bootstrap</li>
-</ul><ul>
-<li>Python</li>
-</ul><h2>Features</h2>
-<hr><ul>
-<li>User can reserve a specific space/room inside the campus</li>
-</ul><ul>
-<li>User can access the availability of each spaces/rooms.</li>
-</ul><ul>
-<li>Admin can approve the request that each users sent for approval for each room to be reserved.</li>
-</ul><h2>Setup</h2>
-<hr><p>This website requires students from CIT-U their own student ID number and should be officially enrolled in CIT-U</p><h2>Usage</h2>
-<hr><p>Users can use this website by logging in their own account.</p>
-<p>After logging in, They can decide what facilities inside CIT-U are they going to use and send the approval for the availability of each chosen spaces.</p>
