@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm gay
+dude i just want to be a housewife of a soft masc lesbian.
 
 
 # 💻 Tech Stack:
